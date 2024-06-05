@@ -1,8 +1,8 @@
 # Interactive Photo Gallery
 
 ## Setup Instructions
-1. Clone the repository: `git clone <repo_url>`
-2. Navigate to the project directory: `cd <repo_name>`
+1. Clone the repository: `git clone https://github.com/ABITURIJE-DUSABE-Alicade/ABITURIJE-DUSABE-Alicade-challenge.git`
+2. Navigate to the project directory: `cd ABITURIJE-DUSABE-Alicade-challenge`
 3. Open `index.html` in your web browser to view the photo gallery.
 
 ## Description
@@ -21,4 +21,4 @@ The `Challenges` folder contains two JavaScript files:
 No external dependencies are required for this project.
 
 ## Author
-Your Name
+ABITURIJE DUSABE Alicade
